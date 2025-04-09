@@ -23,7 +23,7 @@ Streamlit ایک **Python لائبریری** ہے جو ڈیٹا سائنسٹس �
    ```python
    import streamlit as st
 
-   st.title("My First App)
+   st.title("My First App")
    st.write("Hello World")
    ```
 
