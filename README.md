@@ -23,13 +23,13 @@ Streamlit ایک **Python لائبریری** ہے جو ڈیٹا سائنسٹس �
    ```python
    import streamlit as st
 
-   st.title("میری پہلی Streamlit ایپ")
-   st.write("ہیلو ورلڈ!")
+   st.title("My First App)
+   st.write("Hello World")
    ```
 
 3. **چلانے کا طریقہ**:
    ```bash
-   streamlit run your_script.py
+   streamlit run script.py
    ```
 
 ## Streamlit کی خصوصیات
